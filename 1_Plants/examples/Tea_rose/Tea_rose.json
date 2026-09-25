@@ -38,7 +38,7 @@
     },
     "parameters": {
         "moisture": {
-            "rel_range": [40, 60],
+            "rel_range": [17, 60],
             "abs_range": [0, 100],
             "recomended": "2/week",
             "unit": "%",
